@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.3.13)  16 MAR 2025 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.3.13)  17 MAR 2025 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1170,7 +1170,7 @@ pdfTeX warning (dest): name{glo:linus} has been referenced but does not exist, r
 pdfTeX warning (dest): name{glo:electrolito} has been referenced but does not exist, replaced by a fixed one
 
  </home/vanelo/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl12.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/vanelo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on /home/vanelo/Documents/TFG2025/tfg_ieee-vscode-git/tfg_ieee/build/tfg.pdf (34 pages, 413340 bytes).
+Output written on /home/vanelo/Documents/TFG2025/tfg_ieee-vscode-git/tfg_ieee/build/tfg.pdf (34 pages, 413345 bytes).
 PDF statistics:
  507 PDF objects out of 1000 (max. 8388607)
  91 named destinations out of 1000 (max. 500000)
