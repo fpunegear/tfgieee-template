@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.22)  23 MAR 2025 03:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.22)  12 APR 2025 12:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -674,7 +674,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 54.
 
-<./portada_y_ficha_catalografica/logo.png, id=138, 216.0873pt x 216.0873pt>
+<./portada_y_ficha_catalografica/logo.png, id=154, 216.0873pt x 216.0873pt>
 File: ./portada_y_ficha_catalografica/logo.png Graphic file (type png)
 <use ./portada_y_ficha_catalografica/logo.png>
 Package pdftex.def Info: ./portada_y_ficha_catalografica/logo.png  used on input line 63.
@@ -835,7 +835,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3]
-Overfull \hbox (0.62378pt too wide) in paragraph at lines 62--62
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4]
+Overfull \hbox (10.34377pt too wide) in paragraph at lines 109--109
 []\OT1/cmr/bx/sc/17.28 Descripci^^Son de los con-te-ni-dos por cap^^S^^Ptu-
  []
 
@@ -847,14 +855,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[5]
 \openout2 = `./capitulo_02/marco_teorico.aux'.
 
  (capitulo_02/marco_teorico.tex
 \c@teorema=\count382
 
 Cap\'{\i }tulo 2.
-[5
+[6
 
 
 
@@ -871,7 +879,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6]
+[7]
 Overfull \hbox (17.39021pt too wide) in paragraph at lines 72--73
 [][][]\OT1/cmr/m/n/12 Matrices[] son arre-glos usual-men-te de-no-ta-dos por una le-tra ne-gri-ta may^^Suscu-
  []
@@ -883,7 +891,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7])
+[8])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -891,9 +899,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8] (capitulo_03/marco_metodologico.tex
+[9] (capitulo_03/marco_metodologico.tex
 Cap\'{\i }tulo 3.
-[9
+[10
 
 
 
@@ -905,18 +913,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10]
-
-LaTeX Warning: Citation `lan' on page 11 undefined on input line 49.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [11]
+
+LaTeX Warning: Citation `lan' on page 12 undefined on input line 49.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -932,7 +932,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13])
+[13]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -940,21 +940,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
+[14])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
 \openout2 = `./capitulo_04/resultados.aux'.
 
  (capitulo_04/resultados.tex
 Cap\'{\i }tulo 4.
-[15
+[16
 
 
 ]
-<./capitulo_04/huella.jpg, id=398, 169.38281pt x 188.20313pt>
+<./capitulo_04/huella.jpg, id=425, 169.38281pt x 188.20313pt>
 File: ./capitulo_04/huella.jpg Graphic file (type jpg)
 <use ./capitulo_04/huella.jpg>
 Package pdftex.def Info: ./capitulo_04/huella.jpg  used on input line 25.
 (pdftex.def)             Requested size: 84.6912pt x 94.10132pt.
-<./capitulo_04/termodin.png, id=400, 192.72pt x 187.29974pt>
+<./capitulo_04/termodin.png, id=427, 192.72pt x 187.29974pt>
 File: ./capitulo_04/termodin.png Graphic file (type png)
 <use ./capitulo_04/termodin.png>
 Package pdftex.def Info: ./capitulo_04/termodin.png  used on input line 35.
@@ -967,7 +975,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16
+[17
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -980,7 +988,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17
+[18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -991,7 +999,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}) ha
                                                   \__shipout_drop_firstpage_...
 l.90 
       <./capitulo_04/termodin.png>]
-<./capitulo_04/tabla_word.png, id=413, 554.67226pt x 155.3805pt>
+<./capitulo_04/tabla_word.png, id=441, 554.67226pt x 155.3805pt>
 File: ./capitulo_04/tabla_word.png Graphic file (type png)
 <use ./capitulo_04/tabla_word.png>
 Package pdftex.def Info: ./capitulo_04/tabla_word.png  used on input line 97.
@@ -1004,7 +1012,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[18
+[19
 pdfTeX warning (ext4): destination with the same identifier (name{table.4.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
@@ -1019,7 +1027,7 @@ l.110 \include{./capitulo_04/resultados}
 
  (capitulo_05/discusion.tex
 Cap\'{\i }tulo 5.
-[19
+[20
 
 
 
@@ -1032,7 +1040,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[20]
+[21]
 No file tfg.gls.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1041,7 +1049,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[21
+[22
 
 
 
@@ -1049,11 +1057,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 \openout2 = `./anexos/anexo.aux'.
 
- (anexos/anexo.tex) [22
+ (anexos/anexo.tex) [23
 
 
 
-] (tfg.bbl) [23
+] (tfg.bbl) [24
 
 
 
@@ -1074,13 +1082,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tfg.out' has not changed.
-(rerunfilecheck)             Checksum: FEBC80D26252CAA34C8B63AD5C783748;5376.
+(rerunfilecheck)             Checksum: 6B8BC168BDAB4047EC149160140FB987;6009.
  ) 
 Here is how much of TeX's memory you used:
- 21858 strings out of 474486
- 412950 string characters out of 5753570
- 1938542 words of memory out of 5000000
- 43627 multiletter control sequences out of 15000+600000
+ 21876 strings out of 474486
+ 413154 string characters out of 5753570
+ 1937542 words of memory out of 5000000
+ 43637 multiletter control sequences out of 15000+600000
  576074 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,13n,82p,2411b,836s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1106,9 +1114,9 @@ pdfTeX warning (dest): name{glo:linus} has been referenced but does not exist, r
 pdfTeX warning (dest): name{glo:electrolito} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\aldoc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on tfg.pdf (36 pages, 422519 bytes).
+Output written on tfg.pdf (37 pages, 429404 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 110 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 581 PDF objects out of 1000 (max. 8388607)
+ 118 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 
